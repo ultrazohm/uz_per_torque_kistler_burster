@@ -1,3 +1,1 @@
-SIO=UB+,Control,0GND,Amplification
-SIO1=RXD,TXD,Control
-SIO2=Shield
+SIO1=DGND,RXD,TXD

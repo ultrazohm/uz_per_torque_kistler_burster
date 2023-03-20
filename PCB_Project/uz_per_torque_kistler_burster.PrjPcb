@@ -49,6 +49,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=uz_per_torque_kistler_burster.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PFYUGHAH
+
+[Document2]
 DocumentPath=Kistler&Burster.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -65,7 +82,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AQMUZUAT
 
-[Document2]
+[Document3]
 DocumentPath=TopSheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -82,7 +99,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SOJFBJRW
 
-[Document3]
+[Document4]
 DocumentPath=Incr_Kübler.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -99,7 +116,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AWRJVMHC
 
-[Document4]
+[Document5]
 DocumentPath=Kistler&Burster.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -116,22 +133,21 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
-DocumentPath=..\uz_per_torque_kistler_burster.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PFYUGHAH
+[Parameter1]
+Name=AuthorParam
+Value=N. Diringer
+
+[Parameter2]
+Name=ProjectRevision
+Value=1
+
+[Parameter3]
+Name=ProjectNameCustom
+Value=uz_per_torque_kistler_burster
+
+[Parameter4]
+Name=Author
+Value=N. Diringer
 
 [Configuration1]
 Name=Sources

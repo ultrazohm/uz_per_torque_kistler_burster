@@ -133,21 +133,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for uz_per_torque_kistler_burster\Design Rule Check - uz_per_torque_kistler_burster.html
+DItemRevisionGUID=
+
 [Parameter1]
-Name=AuthorParam
+Name=Author
 Value=N. Diringer
 
 [Parameter2]
-Name=ProjectRevision
-Value=1
+Name=AuthorParam
+Value=N. Diringer
 
 [Parameter3]
 Name=ProjectNameCustom
 Value=uz_per_torque_kistler_burster
 
 [Parameter4]
-Name=Author
-Value=N. Diringer
+Name=ProjectRevision
+Value=1
 
 [Configuration1]
 Name=Sources
@@ -1094,10 +1098,16 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=user.DbLib/Misc
+ComponentDesignItemID0=SUB-DRBF-607A-002
+ComponentSymbolReference0=SUB-DRBF-607A-002
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1111,6 +1121,71 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=BOM_JLCPCB Part Class
+ParameterUpdate0=1
+ParameterName1=BOM_Manufacturer
+ParameterUpdate1=1
+ParameterName2=BOM_Manufacturer Part
+ParameterUpdate2=1
+ParameterName3=BOM_Supplier
+ParameterUpdate3=1
+ParameterName4=BOM_Supplier Part
+ParameterUpdate4=1
+ParameterName5=Comment
+ParameterUpdate5=1
+ParameterName6=Component Kind
+ParameterUpdate6=1
+ParameterName7=Component Type
+ParameterUpdate7=1
+ParameterName8=ComponentLink1Description
+ParameterUpdate8=1
+ParameterName9=ComponentLink1URL
+ParameterUpdate9=1
+ParameterName10=Contributor
+ParameterUpdate10=1
+ParameterName11=Created from
+ParameterUpdate11=1
+ParameterName12=Created On
+ParameterUpdate12=1
+ParameterName13=Description
+ParameterUpdate13=1
+ParameterName14=Device Package
+ParameterUpdate14=1
+ParameterName15=Last Updated
+ParameterUpdate15=1
+ParameterName16=LCSC Part Number
+ParameterUpdate16=1
+ParameterName17=Library Reference
+ParameterUpdate17=1
+ParameterName18=Live Cycle Status
+ParameterUpdate18=1
+ParameterName19=Manufacturer
+ParameterUpdate19=1
+ParameterName20=Manufacturer Part Number
+ParameterUpdate20=1
+ParameterName21=Mounting Type
+ParameterUpdate21=1
+ParameterName22=Operating Temperature
+ParameterUpdate22=1
+ParameterName23=PartID
+ParameterUpdate23=1
+ParameterName24=spicePre
+ParameterUpdate24=1
+ParameterName25=spiceSymbolName
+ParameterUpdate25=1
+ParameterName26=Stock number
+ParameterUpdate26=1
+ParameterName27=Supplier 1
+ParameterUpdate27=1
+ParameterName28=Supplier Part Number 1
+ParameterUpdate28=1
+ParameterName29=Type
+ParameterUpdate29=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=PCB - MISC - DSUB15
+ModelUpdate0=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0

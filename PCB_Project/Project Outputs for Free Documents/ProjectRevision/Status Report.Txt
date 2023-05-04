@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 16:49:49 On 17.04.2023
+
+Output: BOM_JLC
+Type  : BOM
+From  : Variant [[No Variations]] of Project [uz_per_torque_kistler_burster.PrjPcb]
+   Generated File[BOM_JLC_Free Documents_[No Variations]_ProjectRevision.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 16:49:59 On 17.04.2023

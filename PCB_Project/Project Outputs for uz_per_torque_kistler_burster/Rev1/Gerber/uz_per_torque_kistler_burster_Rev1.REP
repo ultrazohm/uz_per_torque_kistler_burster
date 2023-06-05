@@ -2,41 +2,6 @@
 FileName = uz_per_torque_kistler_burster_Rev1.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Layer
-      File : uz_per_torque_kistler_burster_Rev1.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-    D17
-    D18
-    D19
-    D20
-    D21
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-*************************************************************
-
-*************************************************************
 Generating : Bottom Layer
       File : uz_per_torque_kistler_burster_Rev1.GBL
 
@@ -46,7 +11,7 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D15
+    D41
     D42
     D43
     D44
@@ -67,20 +32,15 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : uz_per_torque_kistler_burster_Rev1.GTO
+Generating : Mechanical 1
+      File : uz_per_torque_kistler_burster_Rev1.GM1
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Mechanical 1
 
 
 Used DCodes :
-    D10
-    D11
     D12
-    D13
-    D14
-    D15
-    D16
+    D41
 *************************************************************
 
 *************************************************************
@@ -95,11 +55,11 @@ Generating : Top Paste
 
 
 Used DCodes :
+    D16
     D17
     D18
     D19
     D20
-    D21
 *************************************************************
 
 *************************************************************
@@ -117,6 +77,50 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Solder
+      File : uz_per_torque_kistler_burster_Rev1.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : uz_per_torque_kistler_burster_Rev1.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
 Generating : Bottom Overlay
       File : uz_per_torque_kistler_burster_Rev1.GBO
 
@@ -127,15 +131,38 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 1
-      File : uz_per_torque_kistler_burster_Rev1.GM1
+Generating : Top Layer
+      File : uz_per_torque_kistler_burster_Rev1.GTL
 
-    Adding Layer      : Mechanical 1
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D12
-    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
 *************************************************************
 
 *************************************************************
@@ -150,6 +177,7 @@ Generating : Top Solder
 
 
 Used DCodes :
+    D21
     D22
     D23
     D24
@@ -168,34 +196,5 @@ Used DCodes :
     D37
     D38
     D39
-    D40
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : uz_per_torque_kistler_burster_Rev1.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
 *************************************************************
 

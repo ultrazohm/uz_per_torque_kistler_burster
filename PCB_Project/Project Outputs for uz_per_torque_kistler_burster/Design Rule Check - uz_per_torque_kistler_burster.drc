@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Nina Diringer\repos\uz_per_torque_kistler_burster\PCB_Project\uz_per_torque_kistler_burster.PcbDoc
 Date     : 05.06.2023
-Time     : 09:07:45
+Time     : 14:59:12
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
 Rule Violations :0
@@ -61,11 +61,11 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 Waived Violations Of Rule : Clearance Constraint (Gap=0.203mm) (OnLayer('Top Layer')),(All)
-   Waived Violation between Clearance Constraint: (0.091mm < 0.203mm) Between Pad J3-M1(94.6mm,186.65mm) on Multi-Layer And Region (0 hole(s)) Top Layer Waived by Nina Diringer at 09.05.2023 13:31:05Part of footprint
-   Waived Violation between Clearance Constraint: (0.091mm < 0.203mm) Between Pad J3-M2(94.6mm,199.35mm) on Multi-Layer And Region (0 hole(s)) Top Layer Waived by Nina Diringer at 09.05.2023 13:31:16Part of footprint
+   Waived Violation between Clearance Constraint: (0.091mm < 0.203mm) Between Pad J3-M1(94.6mm,186.65mm) on Multi-Layer And Region (0 hole(s)) Top Layer Waived by Nina Diringer at 05.06.2023 14:52:21Part of footprint
+   Waived Violation between Clearance Constraint: (0.091mm < 0.203mm) Between Pad J3-M2(94.6mm,199.35mm) on Multi-Layer And Region (0 hole(s)) Top Layer Waived by Nina Diringer at 05.06.2023 14:52:31Part of footprint
 Waived Violations :2
 
 
 Violations Detected : 0
 Waived Violations : 2
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01

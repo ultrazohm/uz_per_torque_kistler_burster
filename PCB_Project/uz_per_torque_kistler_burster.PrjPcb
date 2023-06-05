@@ -172,20 +172,20 @@ DocumentPath=Project Outputs for uz_per_torque_kistler_burster\Design Rule Check
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Author
-Value=N. Diringer
+Name=ProjectRevision
+Value=Rev1
 
 [Parameter2]
-Name=AuthorParam
-Value=N. Diringer
-
-[Parameter3]
 Name=ProjectNameCustom
 Value=uz_per_torque_kistler_burster
 
+[Parameter3]
+Name=AuthorParam
+Value=N. Diringer
+
 [Parameter4]
-Name=ProjectRevision
-Value=1
+Name=Author
+Value=N. Diringer
 
 [Configuration1]
 Name=Sources

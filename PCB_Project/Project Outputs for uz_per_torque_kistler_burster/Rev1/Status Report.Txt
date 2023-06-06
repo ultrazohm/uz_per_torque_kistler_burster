@@ -1,14 +1,14 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 15:02:09 On 05.06.2023
+Start Output Generation At 10:44:41 On 06.06.2023
 
-Output: BOM_JLC
+Output: Bill of Materials
 Type  : BOM
 From  : Variant [[No Variations]] of Project [uz_per_torque_kistler_burster.PrjPcb]
-   Generated File[BOM_JLC_uz_per_torque_kistler_burster_[No Variations]_Rev1.xlsx]
+   Generated File[BOM_uz_per_torque_kistler_burster_[No Variations]_Rev1.xlsx]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 15:02:20 On 05.06.2023
+Finished Output Generation At 10:44:53 On 06.06.2023

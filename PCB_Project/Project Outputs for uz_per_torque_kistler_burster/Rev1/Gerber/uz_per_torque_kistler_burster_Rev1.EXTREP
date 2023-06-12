@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: uz_per_torque_kistler_burster_Rev1.GBR   05.06.2023  15:02:00
+Gerber File Extension Report For: uz_per_torque_kistler_burster_Rev1.GBR   12.06.2023  11:21:05
 ------------------------------------------------------------------------------------------
 
 
@@ -14,5 +14,5 @@ Layer Extension     Layer Description
 .GBS                Bottom Solder                           
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
-.GM1                Mechanical 1                            
+.GM1                Board Shape                             
 ------------------------------------------------------------------------------------------
